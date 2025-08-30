@@ -27,8 +27,6 @@ It helps job seekers optimize their resumes to better align with job postings.
 
 ---
 
-## 📷 Screenshots
-(Add screenshots here after running your app, e.g., keyword chart, word cloud, ATS score display.)
 
 ---
 
